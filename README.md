@@ -32,7 +32,7 @@ SnapMango directly contributes to:
 
 ## 🧰 Technical Architecture
 
-![image alt](https://github.com/wei-leong/kitahack_2026/blob/6e22c42e27023af3d0661136fc7bfdcaf4abc271/SnapMango_Technical%20Architecture.png)
+![image alt](https://github.com/wei-leong/kitahack_2026/blob/379d2d05f435d2ae941233e3ad0e48fa343c024c/SnapMango_Technical_Architecture.png)
 
 ## 📦 Getting Started
 
