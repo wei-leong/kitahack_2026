@@ -30,6 +30,10 @@ SnapMango directly contributes to:
 - **Charts**: [fl_chart](https://pub.dev/packages/fl_chart)
 - **Environment**: [flutter_dotenv](https://pub.dev/packages/flutter_dotenv)
 
+## 🧰 Technical Architecture
+
+![image alt](https://github.com/wei-leong/kitahack_2026/blob/6e22c42e27023af3d0661136fc7bfdcaf4abc271/SnapMango_Technical%20Architecture.png)
+
 ## 📦 Getting Started
 
 ### Prerequisites
